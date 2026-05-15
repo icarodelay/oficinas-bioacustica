@@ -1,6 +1,11 @@
 # Oficinas de Bioacústica: Machine Learning e Processamento de Áudio de Voz
 
-Bem-vindo às oficinas! Este material introduz técnicas de Machine Learning e processamento de sinais de áudio com foco em análise de voz humana, usando Python e Jupyter Notebooks.
+Bem-vindo às oficinas de bioacústica! 
+
+A motivação para este conteúdo é para repasse técnico do nosso grupo de estudos, porém sinta-se convidado a estudar mesmo assim.
+Este material introduz técnicas de Machine Learning e processamento de sinais de áudio com foco em análise de voz humana, usando Python e Jupyter Notebooks.
+
+✉️ `icarodelima@alu.ufc.br`
 
 ---
 
